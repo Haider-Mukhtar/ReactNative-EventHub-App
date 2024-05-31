@@ -125,4 +125,4 @@ These are the npm packages that are userd in this app.
 
 # App Screenshots 📱
 
-Check App screenshots in `EventHubAppScreenshots` folder in repository.
+Check App screenshots in `EventHubAppScreenshots` folder in the repository.
